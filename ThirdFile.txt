@@ -2,3 +2,6 @@ this is third file
 
 
 testing creating and switching branch
+
+
+testing merging
