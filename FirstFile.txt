@@ -2,11 +2,10 @@ this is first file
 
 
 adding a second commit
-and a 2cond commit
-
+and a 2nd commit
 
 adding a thrid commit
-and a 3ird comit
+and a 3rd commit
 
 
-Testing true merge and testing merge konflicts
+Testing true merge and testing merge conflicts
